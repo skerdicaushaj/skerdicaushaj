@@ -2,9 +2,15 @@
 
 ### 🔭 I’m currently working at:
 
-* [Magoware](https://www.magoware.tv): A Software Company specialized in Video Content Management & Distribution Solutions through internet (IPTV/OTT) for different ecosystem actors & Paid TV operators
+* [Exodus Network & Solutions]
+* An IT partner company, giving the users a friendly environement to work on.
 
 ### Past positions
+
+* [Greenia SRL (https://www.greenia.it): A Software Company specialized in Insurance market in Italy. The products offered are diferent type of insurances: Home, Car, Property, Life, Moto etc
+  
+* [Magoware](https://www.magoware.tv): A Software Company specialized in Video Content Management & Distribution Solutions through internet (IPTV/OTT) for different ecosystem actors & Paid TV operators
+* 
 * [Edotta SH.P.K](https://edotta.al/?lang=en): Edotta is a service company that operates mainly in the Financial, Banking and Insurance sectors.
 
 **Continuously learning new things every day 📕...**

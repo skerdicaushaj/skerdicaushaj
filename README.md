@@ -18,7 +18,7 @@
 ### 📫 Ask me about anything
 
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skerdi_c)
-[![](https://img.shields.io/badge/Whatsapp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+355696600165?text=Hello%20from%20github)
+[![](https://img.shields.io/badge/Whatsapp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+13473213160?text=Hello%20from%20github)
 
 ### 💡 Knowledge area 
 
